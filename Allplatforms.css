@@ -1,0 +1,25 @@
+.platforms-content{
+    width: fit-content;
+    display: flex;
+    align-content: center;
+    align-items: center;
+    background-color: white;
+    border-radius: 15px;
+    margin: 10px 10px;
+}
+.platform-box{
+    padding: 10px;
+
+    text-align: center;
+}
+.social-icons{
+    font-size: 26px;
+}
+.followers{
+    color: #2a2b2e;
+    font-size: 18px;
+}
+.followers span{
+    color: lightgrey;
+    font-size: 14px;
+}
